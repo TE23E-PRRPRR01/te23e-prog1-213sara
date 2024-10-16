@@ -17,7 +17,7 @@ Console.Write("Ange ett meddelande");
 string meddelande = Console.ReadLine();
 
 // Plocka ut morsetecknet för detta index
-string morsetecken = morsekod[index]
+string morsetecken = morsekod[indez]
 Console.WriteLine($"{bokstav} är {morsetecknet}");
 
 // Gå igenom meddelandet bokstav för bokstav (loop)
