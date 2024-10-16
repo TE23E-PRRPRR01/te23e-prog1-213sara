@@ -1,4 +1,6 @@
 ﻿// En liten morsekod app
+using System.Runtime.InteropServices;
+
 Console.Clear();
 Console.WriteLine("En liten morsekod app");
 Console.InputEncoding = System.Text.Encoding.Unicode;
@@ -17,7 +19,7 @@ Console.Write("Ange ett meddelande");
 string meddelande = Console.ReadLine();
 
 // Plocka ut morsetecknet för detta index
-string morsetecken = morsekod[indez]
+string morsetecken = morsekod[index]
 Console.WriteLine($"{bokstav} är {morsetecknet}");
 
 // Gå igenom meddelandet bokstav för bokstav (loop)
@@ -35,6 +37,18 @@ foreach (char bokstav in meddelande)
         string morsetecken = morsekod[index];
         // Console.WriteLine($"{morsetecken}");
 
+        if (PosixSignal == '.') // '.'
+        {
+            // 100Hz, 200ms
+            Console.Beep(1000, 200);
+        }
+        else // '-'
+        { 
+            Console.Beep(1000, 300);
+        }
+
+        // paus i koden
+        Thread.Sleep(100);
     }
     else
     {
