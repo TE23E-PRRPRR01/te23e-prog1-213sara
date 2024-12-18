@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\bin\Debug\net8.0\Lucktext.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\refint\Lucktext.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\Lucktext.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-1\Lucktext\obj\Debug\net8.0\ref\Lucktext.dll

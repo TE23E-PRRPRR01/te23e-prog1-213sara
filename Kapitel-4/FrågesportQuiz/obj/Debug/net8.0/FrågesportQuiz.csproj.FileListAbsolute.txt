@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\bin\Debug\net8.0\FrågesportQuiz.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\bin\Debug\net8.0\FrågesportQuiz.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\bin\Debug\net8.0\FrågesportQuiz.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\bin\Debug\net8.0\FrågesportQuiz.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\bin\Debug\net8.0\FrågesportQuiz.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\refint\FrågesportQuiz.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\FrågesportQuiz.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\FrågesportQuiz\obj\Debug\net8.0\ref\FrågesportQuiz.dll

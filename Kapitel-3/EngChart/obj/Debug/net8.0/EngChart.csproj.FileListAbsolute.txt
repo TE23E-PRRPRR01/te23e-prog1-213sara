@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\bin\Debug\net8.0\EngChart.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\bin\Debug\net8.0\EngChart.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\bin\Debug\net8.0\EngChart.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\bin\Debug\net8.0\EngChart.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\bin\Debug\net8.0\EngChart.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\refint\EngChart.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\EngChart.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\EngChart\obj\Debug\net8.0\ref\EngChart.dll

@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\bin\Debug\net8.0\CelciusFahrenheit.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\bin\Debug\net8.0\CelciusFahrenheit.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\bin\Debug\net8.0\CelciusFahrenheit.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\bin\Debug\net8.0\CelciusFahrenheit.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\bin\Debug\net8.0\CelciusFahrenheit.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\refint\CelciusFahrenheit.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\CelciusFahrenheit.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\CelciusFarenheit\obj\Debug\net8.0\ref\CelciusFahrenheit.dll

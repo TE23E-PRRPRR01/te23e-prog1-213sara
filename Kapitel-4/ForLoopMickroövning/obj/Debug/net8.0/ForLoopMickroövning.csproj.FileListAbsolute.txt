@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\bin\Debug\net8.0\ForLoopMickroövning.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\bin\Debug\net8.0\ForLoopMickroövning.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\bin\Debug\net8.0\ForLoopMickroövning.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\bin\Debug\net8.0\ForLoopMickroövning.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\bin\Debug\net8.0\ForLoopMickroövning.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\refint\ForLoopMickroövning.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ForLoopMickroövning.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\ForLoopMickroövning\obj\Debug\net8.0\ref\ForLoopMickroövning.dll

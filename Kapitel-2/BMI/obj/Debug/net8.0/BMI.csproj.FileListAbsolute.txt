@@ -1,0 +1,15 @@
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\bin\Debug\net8.0\BMI.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\bin\Debug\net8.0\BMI.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\bin\Debug\net8.0\BMI.runtimeconfig.json
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\bin\Debug\net8.0\BMI.dll
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\bin\Debug\net8.0\BMI.pdb
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.AssemblyInfoInputs.cache
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.AssemblyInfo.cs
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.csproj.CoreCompileInputs.cache
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.sourcelink.json
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.dll
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\refint\BMI.dll
+c:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\BMI.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-2\BMI\obj\Debug\net8.0\ref\BMI.dll

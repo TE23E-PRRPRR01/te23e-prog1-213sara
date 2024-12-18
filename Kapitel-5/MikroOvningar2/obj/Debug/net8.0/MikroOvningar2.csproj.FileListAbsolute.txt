@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\bin\Debug\net8.0\MikroOvningar2.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\bin\Debug\net8.0\MikroOvningar2.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\bin\Debug\net8.0\MikroOvningar2.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\bin\Debug\net8.0\MikroOvningar2.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\bin\Debug\net8.0\MikroOvningar2.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\refint\MikroOvningar2.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\MikroOvningar2.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar2\obj\Debug\net8.0\ref\MikroOvningar2.dll

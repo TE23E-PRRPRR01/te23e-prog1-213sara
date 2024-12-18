@@ -1,0 +1,5 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\InteractiveStory\obj\Debug\net8.0\InteractiveStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\InteractiveStory\obj\Debug\net8.0\InteractiveStory.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\InteractiveStory\obj\Debug\net8.0\InteractiveStory.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\InteractiveStory\obj\Debug\net8.0\InteractiveStory.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-3\InteractiveStory\obj\Debug\net8.0\InteractiveStory.sourcelink.json

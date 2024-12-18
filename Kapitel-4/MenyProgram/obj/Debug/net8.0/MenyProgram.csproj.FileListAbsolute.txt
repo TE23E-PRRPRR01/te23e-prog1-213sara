@@ -1,0 +1,15 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\bin\Debug\net8.0\MenyProgram.exe
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\bin\Debug\net8.0\MenyProgram.deps.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\bin\Debug\net8.0\MenyProgram.runtimeconfig.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\bin\Debug\net8.0\MenyProgram.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\bin\Debug\net8.0\MenyProgram.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.sourcelink.json
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\refint\MenyProgram.dll
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.pdb
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\MenyProgram.genruntimeconfig.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-4\MenyProgram\obj\Debug\net8.0\ref\MenyProgram.dll

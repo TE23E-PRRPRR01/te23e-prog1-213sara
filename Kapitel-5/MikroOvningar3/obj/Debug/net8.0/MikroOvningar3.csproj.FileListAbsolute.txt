@@ -1,0 +1,5 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar3\obj\Debug\net8.0\MikroOvningar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar3\obj\Debug\net8.0\MikroOvningar3.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar3\obj\Debug\net8.0\MikroOvningar3.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar3\obj\Debug\net8.0\MikroOvningar3.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-5\MikroOvningar3\obj\Debug\net8.0\MikroOvningar3.sourcelink.json
