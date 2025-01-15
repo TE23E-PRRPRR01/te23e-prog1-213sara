@@ -1,0 +1,5 @@
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-6\Dungeon\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-6\Dungeon\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.AssemblyInfoInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-6\Dungeon\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.AssemblyInfo.cs
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-6\Dungeon\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.csproj.CoreCompileInputs.cache
+C:\Users\sara.kerri\github-classroom\TE23E-PRRPRR01\te23e-prog1-213sara\Kapitel-6\Dungeon\MetoderSomReturnerar\obj\Debug\net8.0\MetoderSomReturnerar.sourcelink.json
