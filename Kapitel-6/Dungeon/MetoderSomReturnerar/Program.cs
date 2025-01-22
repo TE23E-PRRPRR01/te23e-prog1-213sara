@@ -11,6 +11,12 @@
 string namn = "Joan";
 Console.WriteLine($"{namn} baklänges är {VändText(namn)}");
 
+Console.Write("Ange ett tal: ");
+int nyTal1 = LäsInHeltal();
+
+Console.Write("Ange ett tal: ");
+int nyTal2 = LäsInHeltal();
+
 // Exempel multiplikation
 double resultat = Multiplicera(7, 6);
 Console.WriteLine(resultat);
@@ -73,5 +79,21 @@ static void LäsInHeltal()
 {
     int tal = 0;
     string textSomBlirTal = Console.ReadLine();
-    bool lyckades = int.TryParse(textSomBlirTal, out tal)
+    while (true)
+    {
+    
+    // Kolla om texten är ett tal
+    bool lyckades = int.TryParse(textSomBlirTal, out tal);
+
+    if (lyckades == true)
+    {
+        break;
+    }
+    else
+    {
+        Console.WriteLine("Fel! Var god ange ett heltal!");
+    }
+    }
+
+    return tal;
 }
